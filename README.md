@@ -39,7 +39,7 @@ PDF_chatbot_RAG/
 - Store embeddings in ChromaDB
 - Query documents using OpenAI gpt-3.5-turbo model
 - Microservice architecture (Streamlit client + FastAPI server)
-- smile: Support Memory feature for saving dialog context
+- Support Memory feature for keeping dialog contexts
 
 ---
 
